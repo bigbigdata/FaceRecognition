@@ -1,0 +1,1 @@
+This is a face recognition project. The goal is to implement face recognition algortihm on devices. Most of the code will be completed by Python OpenCV first. Once initial test is completed, the migration to java will be conducted.  
